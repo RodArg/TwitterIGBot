@@ -1,5 +1,5 @@
 # TwitterIGBot
-Twitter bot template.
+Twitter bot template. Will add Instagram bot later.
 Making your own Twitter bot has never been easier.
 
 Setup Instructions:
